@@ -1,2 +1,2 @@
 # ini adalah repository untuk latihan membuat branch baru di GitHub
-GitHub itu sangat bagus
+Para programmer sangat terbantu dengan adanya GitHub
